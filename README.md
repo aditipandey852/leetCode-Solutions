@@ -7,3 +7,4 @@ Insert Interval :- https://leetcode.com/problems/insert-interval/
 Container With most water :- https://leetcode.com/problems/container-with-most-water/         
 Substring with Concatenation of All Words :- https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/       
 1140. Stone Game II :- https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20
+650. 2 Keys Keyboard :- https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19

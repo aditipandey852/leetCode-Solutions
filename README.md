@@ -8,4 +8,5 @@ Container With most water :- https://leetcode.com/problems/container-with-most-w
 Substring with Concatenation of All Words :- https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/       
 1140. Stone Game II :- https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20                    
 650. 2 Keys Keyboard :- https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19       
-664. Strange Printer :- https://leetcode.com/problems/strange-printer/description/  
+664. Strange Printer :- https://leetcode.com/problems/strange-printer/description/                    
+66. Plus One :- https://leetcode.com/problems/plus-one/description/

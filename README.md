@@ -11,4 +11,5 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 664. Strange Printer :- https://leetcode.com/problems/strange-printer/description/                    
 66. Plus One :- https://leetcode.com/problems/plus-one/description/                                
 3. Longest Substring Without Repeating Characters :- https://leetcode.com/problems/longest-substring-without-repeating-characters/                    
-476. Number Complement https://leetcode.com/problems/number-complement/description/?envType=daily-question&envId=2024-08-22              
+476. Number Complement https://leetcode.com/problems/number-complement/description/?envType=daily-question&envId=2024-08-22                                  
+564. Find the Closest Palindrome:- https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24     

@@ -11,8 +11,6 @@ class Solution:
                 return []
         return result
 
-# @sohmpatil is very much convinced this harmless output formatting will somehow erase your coding skills so for the sake of your programming future and acing interviews you guys better not even look at it.
-
 def format_output(result):
     return '[' + ','.join(str(row).replace(' ', '') for row in result) + ']'
 

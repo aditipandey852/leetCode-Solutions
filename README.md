@@ -15,4 +15,5 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 564. Find the Closest Palindrome:- https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24                        
 15. 3Sum:- https://leetcode.com/problems/3sum/               
 1514. Path with Maximum Probability:- https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27                   
-1905. Count Sub Islands:- https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28           
+1905. Count Sub Islands:- https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28                        
+2022. Convert 1D Array Into 2D Array2022. Convert 1D Array Into 2D Array:- https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01

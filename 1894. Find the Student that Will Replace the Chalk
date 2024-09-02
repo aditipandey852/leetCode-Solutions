@@ -1,0 +1,26 @@
+class Solution:
+    def chalkReplacer(self, chalk: List[int], k: int) -> int:
+        totalChalkNeeded = sum(chalk)
+        remainingChalk = k % totalChalkNeeded
+
+        for studentIndex, studentChalkUse in enumerate(chalk):
+            if remainingChalk < studentChalkUse:
+                return studentIndex
+            remainingChalk -= studentChalkUse
+        return 0
+def main():
+    input_data = sys.stdin.read().strip()
+    lines = input_data.splitlines()
+    numTestCases = len(lines)//2
+    results = []
+    for i in range(numTestCases):
+        chalk = json.loads(lines[i*2])
+        k = int(lines[i*2 +1])
+        result = Solution().chalkReplacer(chalk, k)
+        results.append(str(result))
+    with open('user.out', 'w') as f:
+        for result in results:
+            f.write(f"{result}\n")
+if __name__ == "__main__":
+    main()
+    exit(0)

@@ -1,0 +1,12 @@
+class Solution:
+    def getLucky(self, s: str, k: int) -> int:
+        num = ''
+        for x in s:
+            num += str(ord(x) - ord('a') + 1)
+        while k>0:
+            temp = 0
+            for x in num:
+                temp += int(x)
+            num = str(temp)
+            k -= 1
+        return int(num)

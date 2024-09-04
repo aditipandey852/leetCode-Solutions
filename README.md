@@ -18,4 +18,5 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1905. Count Sub Islands:- https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28                        
 2022. Convert 1D Array Into 2D Array2022. Convert 1D Array Into 2D Array:- https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01   
 1894. Find the Student that Will Replace the Chalk:- https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02      
-1945. Sum of Digits of String After Convert:- https://leetcode.com/problems/sum-of-digits-of-string-after-convert/?envType=daily-question&envId=2024-09-03
+1945. Sum of Digits of String After Convert:- https://leetcode.com/problems/sum-of-digits-of-string-after-convert/?envType=daily-question&envId=2024-09-03                
+874. Walking Robot Simulation :- https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2024-09-04                    

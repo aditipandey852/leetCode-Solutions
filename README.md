@@ -21,4 +21,5 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1945. Sum of Digits of String After Convert:- https://leetcode.com/problems/sum-of-digits-of-string-after-convert/?envType=daily-question&envId=2024-09-03                
 874. Walking Robot Simulation :- https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2024-09-04                               
 2028. Find Missing Observations :- https://leetcode.com/problems/find-missing-observations/description/?envType=daily-question&envId=2024-09-05                   
-3217. Delete Nodes From Linked List Present in Array:- https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2024-09-06
+3217. Delete Nodes From Linked List Present in Array:- https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2024-09-06   
+1367. Linked List in Binary Tree:- https://leetcode.com/problems/linked-list-in-binary-tree/description/?envType=daily-question&envId=2024-09-07

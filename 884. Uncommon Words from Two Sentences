@@ -1,0 +1,7 @@
+class Solution:
+    def uncommonFromSentences(self, s1: str, s2: str) -> List[str]:
+        word1 = s1.split()
+        word2 = s2.split()
+        allWord = word1 + word2
+        wordCount = Counter(allWord)
+        return [word for word in wordCount if wordCount[word]==1]

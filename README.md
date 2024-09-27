@@ -34,3 +34,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 539. Minimum Time Difference:- https://leetcode.com/problems/minimum-time-difference/description/?envType=daily-question&envId=2024-09-16    
 884. Uncommon Words from Two Sentences:- https://leetcode.com/problems/uncommon-words-from-two-sentences/description/?envType=daily-question&envId=2024-09-17  
 2416. Sum of Prefix Scores of Strings: https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/?envType=daily-question&envId=2024-09-25    
+28. Find the Index of the First Occurrence in a String:- https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/

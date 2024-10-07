@@ -42,3 +42,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 35. Search Insert Position :- https://leetcode.com/problems/search-insert-position/     
 567. Permutation in String:- https://leetcode.com/problems/permutation-in-string/description/?envType=daily-question&envId=2024-10-05       
 1813. Sentence Similarity III :- https://leetcode.com/problems/sentence-similarity-iii/description/?envType=daily-question&envId=2024-10-06
+2696. Minimum String Length After Removing Substrings :- https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/?envType=daily-question&envId=2024-10-07       

@@ -6,7 +6,8 @@ Median of two sorted arrays :- https://leetcode.com/problems/median-of-two-sorte
 Insert Interval :- https://leetcode.com/problems/insert-interval/                   
 Container With most water :- https://leetcode.com/problems/container-with-most-water/         
 Substring with Concatenation of All Words :- https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/       
-1140. Stone Game II :- https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20                    
+1140. Stone Game II :
+- https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20                    
 650. 2 Keys Keyboard :- https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19       
 664. Strange Printer :- https://leetcode.com/problems/strange-printer/description/                    
 66. Plus One :- https://leetcode.com/problems/plus-one/description/                                
@@ -48,4 +49,5 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2684. Maximum Number of Moves in a Grid:- https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/?envType=daily-question&envId=2024-10-29        
 1671. Minimum Number of Removals to Make Mountain Array:- https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30                 
 1957. Delete Characters to Make Fancy String:- https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=daily-question&envId=2024-11-01           
-2490. Circular Sentence:- https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02       
+2490. Circular Sentence:- https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02                
+796. Rotate String :- https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03       

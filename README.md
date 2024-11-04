@@ -50,4 +50,5 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1671. Minimum Number of Removals to Make Mountain Array:- https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30                 
 1957. Delete Characters to Make Fancy String:- https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=daily-question&envId=2024-11-01           
 2490. Circular Sentence:- https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02                
-796. Rotate String :- https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03       
+796. Rotate String :- https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03          
+3163. String Compression III :- https://leetcode.com/problems/string-compression-iii/description/?envType=daily-question&envId=2024-11-04         

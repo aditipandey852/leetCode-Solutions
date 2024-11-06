@@ -53,3 +53,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 796. Rotate String :- https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03          
 3163. String Compression III :- https://leetcode.com/problems/string-compression-iii/description/?envType=daily-question&envId=2024-11-04               
 2914. Minimum Number of Changes to Make Binary String Beautiful :- https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/1444077399/?envType=daily-question&envId=2024-11-05              
+3011. Find if Array Can Be Sorted :- https://leetcode.com/problems/find-if-array-can-be-sorted/description/?envType=daily-question&envId=2024-11-06

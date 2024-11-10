@@ -57,3 +57,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2275. Largest Combination With Bitwise AND Greater Than Zero :- https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/?envType=daily-question&envId=2024-11-07       
 1829. Maximum XOR for Each Query :- https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-08
 3133. Minimum Array End :- https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09
+3097. Shortest Subarray With OR at Least K II :- https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=daily-question&envId=2024-11-10

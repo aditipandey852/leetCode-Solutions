@@ -68,3 +68,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1652. Defuse the Bomb :- https://leetcode.com/problems/defuse-the-bomb/description/?envType=daily-question&envId=2024-11-18
 2461. Maximum Sum of Distinct Subarrays With Length K :- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/submissions/1457371168/?envType=daily-question&envId=2024-11-19
 2516. Take K of Each Character From Left and Right:- https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/?envType=daily-question&envId=2024-11-20
+2257. Count Unguarded Cells in the Grid :- https://leetcode.com/problems/count-unguarded-cells-in-the-grid/submissions/1459290965/?envType=daily-question&envId=2024-11-21

@@ -71,3 +71,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2257. Count Unguarded Cells in the Grid :- https://leetcode.com/problems/count-unguarded-cells-in-the-grid/submissions/1459290965/?envType=daily-question&envId=2024-11-21
 1072. Flip Columns For Maximum Number of Equal Rows :- https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/submissions/1460211060/?envType=daily-question&envId=2024-11-22
 303. Range Sum Query - Immutable:- https://leetcode.com/problems/range-sum-query-immutable/description/
+1861. Rotating the Box :- https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2024-11-23

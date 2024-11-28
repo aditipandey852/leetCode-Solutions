@@ -77,3 +77,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2924. Find Champion II :- https://leetcode.com/problems/find-champion-ii/description/?envType=daily-question&envId=2024-11-26
 3243. Shortest Distance After Road Addition Queries I :- https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/?envType=daily-question&envId=2024-11-27
 2290. Minimum Obstacle Removal to Reach Corner :- https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/?envType=daily-question&envId=2024-11-28
+16. 3Sum Closest :- https://leetcode.com/problems/3sum-closest/description/?envType=problem-list-v2&envId=array

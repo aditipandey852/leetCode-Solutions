@@ -84,3 +84,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence :- https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/?envType=daily-question&envId=2024-12-02
 2825. Make String a Subsequence Using Cyclic Increments :- https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/?envType=daily-question&envId=2024-12-04
 2337. Move Pieces to Obtain a String :- https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/?envType=daily-question&envId=2024-12-05
+2554. Maximum Number of Integers to Choose From a Range I :- https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/submissions/1472101892/?envType=daily-question&envId=2024-12-06

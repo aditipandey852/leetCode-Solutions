@@ -87,3 +87,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2554. Maximum Number of Integers to Choose From a Range I :- https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/submissions/1472101892/?envType=daily-question&envId=2024-12-06
 1760. Minimum Limit of Balls in a Bag :- https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/?envType=daily-question&envId=2024-12-07
 2054. Two Best Non-Overlapping Events :- https://leetcode.com/problems/two-best-non-overlapping-events/submissions/1473698816/?envType=daily-question&envId=2024-12-08
+88. Merge Sorted Array :- https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=array&difficulty=EASY

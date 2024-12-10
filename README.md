@@ -93,3 +93,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 119.  Pascal's Triangle II :- https://leetcode.com/problems/pascals-triangle-ii/description/?envType=problem-list-v2&envId=array&difficulty=EASY
 136. Single Number :- https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=array&difficulty=EASY
 169. Majority Element :- https://leetcode.com/problems/majority-element/submissions/1474639741/?envType=problem-list-v2&envId=array&difficulty=EASY
+2981. Find Longest Special Substring That Occurs Thrice I :- https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/?envType=daily-question&envId=2024-12-10

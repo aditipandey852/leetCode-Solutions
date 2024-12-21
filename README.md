@@ -100,3 +100,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2762. Continuous Subarrays :- https://leetcode.com/problems/continuous-subarrays/description/?envType=daily-question&envId=2024-12-14
 1792. Maximum Average Pass Ratio :- https://leetcode.com/problems/maximum-average-pass-ratio/submissions/1479350580/?envType=daily-question&envId=2024-12-15
 2415. Reverse Odd Levels of Binary Tree :- https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/?envType=daily-question&envId=2024-12-20
+2872. Maximum Number of K-Divisible Components :- https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2024-12-21

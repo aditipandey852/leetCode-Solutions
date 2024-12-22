@@ -101,3 +101,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1792. Maximum Average Pass Ratio :- https://leetcode.com/problems/maximum-average-pass-ratio/submissions/1479350580/?envType=daily-question&envId=2024-12-15
 2415. Reverse Odd Levels of Binary Tree :- https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/?envType=daily-question&envId=2024-12-20
 2872. Maximum Number of K-Divisible Components :- https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2024-12-21
+2940. Find Building Where Alice and Bob Can Meet :- https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/submissions/1485703145/?envType=daily-question&envId=2024-12-22

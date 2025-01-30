@@ -108,3 +108,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 494. Target Sum :- https://leetcode.com/problems/target-sum/description/?envType=daily-question&envId=2024-12-26
 1769. Minimum Number of Operations to Move All Balls to Each Box :- https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06
 2017. Grid Game :- https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21
+2493. Divide Nodes Into the Maximum Number of Groups :- https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/?envType=daily-question&envId=2025-01-30

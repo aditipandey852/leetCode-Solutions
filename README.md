@@ -109,3 +109,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1769. Minimum Number of Operations to Move All Balls to Each Box :- https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06
 2017. Grid Game :- https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21
 2493. Divide Nodes Into the Maximum Number of Groups :- https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/?envType=daily-question&envId=2025-01-30
+1790. Check if One String Swap Can Make Strings Equal : https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05

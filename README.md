@@ -110,3 +110,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2017. Grid Game :- https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21
 2493. Divide Nodes Into the Maximum Number of Groups :- https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/?envType=daily-question&envId=2025-01-30
 1790. Check if One String Swap Can Make Strings Equal : https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05
+3160. Find the Number of Distinct Colors Among the Balls :- https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/submissions/1534953856/?envType=daily-question&envId=2025-02-07

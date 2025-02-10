@@ -113,3 +113,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 3160. Find the Number of Distinct Colors Among the Balls :- https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/submissions/1534953856/?envType=daily-question&envId=2025-02-07
 2349. Design a Number Container System :- https://leetcode.com/problems/design-a-number-container-system/description/?envType=daily-question&envId=2025-02-08
 2364. Count Number of Bad Pairs https://leetcode.com/problems/count-number-of-bad-pairs/submissions/1536599548/?envType=daily-question&envId=2025-02-09
+3174. Clear Digits :- https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10

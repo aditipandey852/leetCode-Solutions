@@ -127,3 +127,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1980. Find Unique Binary String :- https://leetcode.com/problems/find-unique-binary-string/submissions/1549895912/?envType=daily-question&envId=2025-02-20
 1261. Find Elements in a Contaminated Binary Tree :- https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/?envType=daily-question&envId=2025-02-21
 889. Construct Binary Tree from Preorder and Postorder Traversal :- https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23
+1524. Number of Sub-arrays With Odd Sum :- https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/?envType=daily-question&envId=2025-02-25

@@ -131,3 +131,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1749. Maximum Absolute Sum of Any Subarray :- https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26
 873. Length of Longest Fibonacci Subsequence :- https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27
 1092. Shortest Common Supersequence  :- https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28
+2460. Apply Operations to an Array :- https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01

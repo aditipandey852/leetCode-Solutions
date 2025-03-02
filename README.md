@@ -132,3 +132,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 873. Length of Longest Fibonacci Subsequence :- https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27
 1092. Shortest Common Supersequence  :- https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28
 2460. Apply Operations to an Array :- https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01
+2570. Merge Two 2D Arrays by Summing Values :- https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02

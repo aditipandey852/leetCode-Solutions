@@ -133,3 +133,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 1092. Shortest Common Supersequence  :- https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28
 2460. Apply Operations to an Array :- https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01
 2570. Merge Two 2D Arrays by Summing Values :- https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02
+2161. Partition Array According to Given Pivot :- https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/1561888024/?envType=daily-question&envId=2025-03-03

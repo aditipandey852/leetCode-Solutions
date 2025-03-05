@@ -135,3 +135,4 @@ Substring with Concatenation of All Words :- https://leetcode.com/problems/subst
 2570. Merge Two 2D Arrays by Summing Values :- https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02
 2161. Partition Array According to Given Pivot :- https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/1561888024/?envType=daily-question&envId=2025-03-03
 1780. Check if Number is a Sum of Powers of Three :- https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/submissions/1562280853/?envType=daily-question&envId=2025-03-04
+2579. Count Total Number of Colored Cells :- https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05
